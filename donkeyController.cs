@@ -32,3 +32,5 @@ public class donkeyController : MonoBehaviour
         }
     }
 }
+
+// husk å kjøpe overnatting-på-reenskaug-til-jan-arild
